@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Menu Example</string>
+
+    <string name="fileMenu">File</string>
+    <string name="fileMenuSelectedMessage">You selected the file menu.</string>
+
+    <string name="personMenu">Person</string>
+    <string name="personMenuSelectedMessage">You selected the person menu.</string>
+</resources>
